@@ -1,0 +1,2 @@
+C:\Users\35214\Desktop\work\dist\XrayDeploy.pdb
+C:\Users\35214\Desktop\work\dist\XrayDeploy.exe
